@@ -1,0 +1,24 @@
+.container {
+    flex: content;
+}
+
+.boox {
+    display: flex;
+
+    align-items: center;
+    border-style: hidden;
+    background-color: rgb(206, 202, 202);
+    padding: 1rem 0;
+    margin: 5rem 0;
+    height: 500px;
+}
+
+.img {
+    width: 500px;
+    height: 500px;
+}
+
+
+.foot {
+    background-color: #9BCDD2;
+}
